@@ -58,7 +58,7 @@ My-First-Stegnography:
 
 Jay-Chot:
 
-	We are given a jpg file,when we open the file we get an error saying it couldn't load,
-	so lets go ghex the file, checking Header and Footer and adjusting them, we'll be able to open the image and see the flag
+	We are given a jpg file,when we open the file we get an error saying it couldn't load, so lets go 
+	ghex the file, checking Header and Footer and adjusting them, we'll be able to open the image and see the flag
 
 #reference for all the above tasks wiki.bi0s.in 
